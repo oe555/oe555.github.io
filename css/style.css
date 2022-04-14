@@ -4,8 +4,8 @@
 html,
 body {
 	height: 100%;
-	font-family: 'Josefin Sans', sans-serif;
-	background-color: #f2f7f8;
+	font-family: 'Brush Script MT', cursive;
+	background-color: #f2b7b8;
 }
 
 h1,
@@ -17,7 +17,7 @@ h6 {
 	color: #40424a;
 	margin: 0;
 	font-weight: 600;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Brush Script MT', cursive;
 }
 
 h2 {
