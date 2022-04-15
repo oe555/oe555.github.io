@@ -4,7 +4,7 @@
 html,
 body {
 	height: 100%;
-	font-family: 'Brush Script MT', cursive;
+	font-family: 'Brush Script MT', serif;
 	background-color: #f2f7f8;
 }
 
@@ -17,7 +17,7 @@ h6 {
 	color: #40424a;
 	margin: 0;
 	font-weight: 600;
-	font-family: 'Brush Script MT', cursive;
+	font-family: 'Brush Script MT', serif;
 }
 
 h2 {
